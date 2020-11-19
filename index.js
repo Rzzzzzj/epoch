@@ -27,4 +27,4 @@ bot.on('message', msg => {
 })
 
 
-bot.login("Nzc4ODk2NTU1NTc0Mjk2NTc2.X7Yp8g.kp-KSdHfpgEbtJMy5hCG5onHli8")
+bot.login("Nzc4ODk2NTU1NTc0Mjk2NTc2.X7Yp8g.vee-HZFYhYYykduq_Tou5n5ApW8")
